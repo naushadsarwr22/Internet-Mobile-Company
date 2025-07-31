@@ -48,7 +48,7 @@ This feature indicates if the package includes Backup and Device Protection and 
 ## * Payment Method
 Simply indicates the method of payment customer selected. It could be Month to Month, one year or two-year contract.
 
-<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/payment%20method.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/payment%20method.png" width="400" height="600">
 
 ## * Tech Support for Movie and TV
 This filer would highlight if the customer selected Tech Support for Movie and TV including different combinations of services in the package.
@@ -58,4 +58,4 @@ This filer would highlight if the customer selected Tech Support for Movie and T
 ## * Sum of Tenure by Tenure
 This filter configures the number of tenure customers are with the company.
 
-<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/sum%20of%20return%20by%20tenure.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/sum%20of%20return%20by%20tenure.png" width="400" height="600">
