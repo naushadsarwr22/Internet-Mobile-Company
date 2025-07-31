@@ -22,7 +22,7 @@ Kaggle ……
 ## * KPIs
  Key KPIs (Monthly Charge and Total Charge): These two KPIs will give you numeric data calculation displaying customers’ monthly charges and total charges for the features selected from the dashboard. 
 
- <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+ <img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/KPI%20TOP.png" width="400" height="400">
 
 
 
@@ -33,29 +33,29 @@ Kaggle ……
 - Contract: This Slicing feature on the left tells you if the customers have chosen month to month, one year or two-year contract for the service.
 - Payment Method: This Slicing feature on the left tells you if the customers are payibg with debit card, credit card, electronic check or by mail.
 
-  <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+  <img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/KPIs.png" width="400" height="400">
 
 ## * Filter and Slicer
 This feature will indicate gender categorized by senior citizens in the household. This filter helps in marketing the packages according to the household members. 
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/gender%20by%20senior%20citizen.png" width="400" height="400">
 
 ## * Backup and Device Protection
 This feature indicates if the package includes Backup and Device Protection and Online security. 
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/backup%20and%20device%20protection.png" width="400" height="400">
 
 ## * Payment Method
 Simply indicates the method of payment customer selected. It could be Month to Month, one year or two-year contract.
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/payment%20method.png" width="400" height="400">
 
 ## * Tech Support for Movie and TV
 This filer would highlight if the customer selected Tech Support for Movie and TV including different combinations of services in the package.
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/tech%20support%20for%20movie%20and%20tv.png" width="400" height="400">
 
 ## * Sum of Tenure by Tenure
 This filter configures the number of tenure customers are with the company.
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/sum%20of%20return%20by%20tenure.png" width="400" height="400">
