@@ -33,7 +33,7 @@ Kaggle ……
 - Contract: This Slicing feature on the left tells you if the customers have chosen month to month, one year or two-year contract for the service.
 - Payment Method: This Slicing feature on the left tells you if the customers are payibg with debit card, credit card, electronic check or by mail.
 
-  <img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/KPIs.png" width="400" height="600">
+  <img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/KPIs.png" width="200" height="500">
 
 ## * Filter and Slicer
 This feature will indicate gender categorized by senior citizens in the household. This filter helps in marketing the packages according to the household members. 
