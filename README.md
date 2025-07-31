@@ -58,7 +58,7 @@ This filer would highlight if the customer selected Tech Support for Movie and T
 ## * Sum of Tenure by Tenure
 This filter configures the number of tenure customers are with the company.
 
-<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/sum%20of%20return%20by%20tenure.png" width="400" height="600">
+<img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/sum%20of%20return%20by%20tenure.png" width="300" height="400">
 
 ## Dashboard
 <img src="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/Internet_Mobile_Company_Dashboard_Power%20BI.png" width="900" height="600">
