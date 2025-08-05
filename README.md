@@ -2,7 +2,7 @@
 ## Cell-Tell-Internet Dashboard
 Cell Tell dashboard is a dynamic and interactive data visualization tool designed to explore customer statical report based on categorized patterns specially design for Cell Tell Company.  It creates a dynamic dashboard and compares services provided to customers like gender, phone lines, internet services, online security, backup plan, tech support and streaming tv. The outcome helps the company to analyze the data and maintain the loyal customers and keep them aboard with promotions and incentives hence increasing the revenue for the company.
 
--<a href="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png">Dashboard Image</a>
+-<a href="https://github.com/naushadsarwr22/Internet-Mobile-Company/blob/main/Internet_Mobile_Company_Dashboard_Power%20BI.png">Dashboard Image</a>
 
 ## * Tech Stack
 The dashboard was built using the following tools and technologies:
